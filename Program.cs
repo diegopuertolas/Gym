@@ -10,3 +10,5 @@ var activities = new List<Activity>
     yoga, 
     crossTraining
 };
+
+AppMenu.DisplayMenu(activities);
